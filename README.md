@@ -69,7 +69,7 @@ A reference screenshot provided by the assignment is included in the assets/ fol
 ![Daily Best Sales](screenshots/dailybestsales.png)
 
 ### Popular Products
-![Popular Products](screenshots/popular products.png)
+![Popular Products](screenshots/popular product.png)
 
 ### Categories and Footer
 ![Categories and Footer](screenshots/categories and footer.png)
