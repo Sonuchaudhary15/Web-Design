@@ -63,13 +63,13 @@ A reference screenshot provided by the assignment is included in the assets/ fol
 ![Homepage](screenshots/homepage.png)
 
 ### Feature Categories
-![Feature Categories](screenshots/feature categories.png)
+![Feature Categories](screenshots/featurecategories.png)
 
 ### Daily Best Sales
 ![Daily Best Sales](screenshots/dailybestsales.png)
 
 ### Popular Products
-![Popular Products](screenshots/popular product.png)
+![Popular Products](screenshots/popularproduct.png)
 
 ### Categories and Footer
-![Categories and Footer](screenshots/categories and footer.png)
+![Categories and Footer](screenshots/categoriesandfooter.png)
