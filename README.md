@@ -57,10 +57,19 @@ https://themewagon.github.io/freshcart/
 
 A reference screenshot provided by the assignment is included in the assets/ folder.
 
-7. Screenshots:
+## Screenshots
 
-screenshots/homepage.png – Desktop view
-screenshots/feature categories.png – Feature categories section
-screenshots/dailybestsales.png – Daily best sales section
-screenshots/popular products.png – Popular products section
-screenshots/categories and footer.png – Categories and footer section
+### Homepage (Desktop View)
+![Homepage](screenshots/homepage.png)
+
+### Feature Categories
+![Feature Categories](screenshots/feature-categories.png)
+
+### Daily Best Sales
+![Daily Best Sales](screenshots/dailybestsales.png)
+
+### Popular Products
+![Popular Products](screenshots/popular-products.png)
+
+### Categories and Footer
+![Categories and Footer](screenshots/categories-and-footer.png)
